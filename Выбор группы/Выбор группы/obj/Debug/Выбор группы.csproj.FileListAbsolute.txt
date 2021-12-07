@@ -1,0 +1,12 @@
+D:\Varyacheva\Выбор группы\Выбор группы\bin\Debug\Выбор группы.exe.config
+D:\Varyacheva\Выбор группы\Выбор группы\bin\Debug\Выбор группы.exe
+D:\Varyacheva\Выбор группы\Выбор группы\bin\Debug\Выбор группы.pdb
+D:\Varyacheva\Выбор группы\Выбор группы\obj\Debug\Выбор группы.csprojAssemblyReference.cache
+D:\Varyacheva\Выбор группы\Выбор группы\obj\Debug\Выбор_группы.Form1.resources
+D:\Varyacheva\Выбор группы\Выбор группы\obj\Debug\Выбор_группы.Properties.Resources.resources
+D:\Varyacheva\Выбор группы\Выбор группы\obj\Debug\Выбор группы.csproj.GenerateResource.cache
+D:\Varyacheva\Выбор группы\Выбор группы\obj\Debug\Выбор группы.csproj.CoreCompileInputs.cache
+D:\Varyacheva\Выбор группы\Выбор группы\obj\Debug\Выбор группы.exe
+D:\Varyacheva\Выбор группы\Выбор группы\obj\Debug\Выбор группы.pdb
+D:\Varyacheva\Выбор группы\Выбор группы\obj\Debug\Выбор_группы.Form2.resources
+D:\Varyacheva\Выбор группы\Выбор группы\obj\Debug\Выбор_группы.Form3.resources
