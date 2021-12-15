@@ -1,0 +1,10 @@
+C:\Users\student\source\repos\Vagoni\Vagoni\bin\Debug\Vagoni.exe.config
+C:\Users\student\source\repos\Vagoni\Vagoni\bin\Debug\Vagoni.exe
+C:\Users\student\source\repos\Vagoni\Vagoni\bin\Debug\Vagoni.pdb
+C:\Users\student\source\repos\Vagoni\Vagoni\obj\Debug\Vagoni.csprojAssemblyReference.cache
+C:\Users\student\source\repos\Vagoni\Vagoni\obj\Debug\Vagoni.Form1.resources
+C:\Users\student\source\repos\Vagoni\Vagoni\obj\Debug\Vagoni.Properties.Resources.resources
+C:\Users\student\source\repos\Vagoni\Vagoni\obj\Debug\Vagoni.csproj.GenerateResource.cache
+C:\Users\student\source\repos\Vagoni\Vagoni\obj\Debug\Vagoni.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\Vagoni\Vagoni\obj\Debug\Vagoni.exe
+C:\Users\student\source\repos\Vagoni\Vagoni\obj\Debug\Vagoni.pdb
