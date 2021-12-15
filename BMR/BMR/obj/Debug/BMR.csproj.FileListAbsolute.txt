@@ -1,0 +1,40 @@
+C:\Users\я\source\repos\BMR\BMR\obj\Debug\BMR.csproj.AssemblyReference.cache
+C:\Users\я\source\repos\BMR\BMR\obj\Debug\BMR.Properties.Resources.resources
+C:\Users\я\source\repos\BMR\BMR\obj\Debug\BMR.csproj.GenerateResource.cache
+C:\Users\я\source\repos\BMR\BMR\obj\Debug\BMR.csproj.CoreCompileInputs.cache
+C:\Users\я\source\repos\BMR\BMR\bin\Debug\BMR.exe.config
+C:\Users\я\source\repos\BMR\BMR\bin\Debug\BMR.exe
+C:\Users\я\source\repos\BMR\BMR\bin\Debug\BMR.pdb
+C:\Users\я\source\repos\BMR\BMR\obj\Debug\BMR.Form1.resources
+C:\Users\я\source\repos\BMR\BMR\obj\Debug\BMR.exe
+C:\Users\я\source\repos\BMR\BMR\obj\Debug\BMR.pdb
+D:\--main\BMR\BMR\bin\Debug\BMR.exe.config
+D:\--main\BMR\BMR\bin\Debug\BMR.exe
+D:\--main\BMR\BMR\bin\Debug\BMR.pdb
+D:\--main\BMR\BMR\obj\Debug\BMR.csprojAssemblyReference.cache
+D:\--main\BMR\BMR\obj\Debug\BMR.Form1.resources
+D:\--main\BMR\BMR\obj\Debug\BMR.Properties.Resources.resources
+D:\--main\BMR\BMR\obj\Debug\BMR.csproj.GenerateResource.cache
+D:\--main\BMR\BMR\obj\Debug\BMR.csproj.CoreCompileInputs.cache
+D:\--main\BMR\BMR\obj\Debug\BMR.exe
+D:\--main\BMR\BMR\obj\Debug\BMR.pdb
+\\pc-43-53-01\Лабораторные\31КС\Подливкин Арсений\BMR\BMR\bin\Debug\BMR.exe.config
+\\pc-43-53-01\Лабораторные\31КС\Подливкин Арсений\BMR\BMR\bin\Debug\BMR.exe
+\\pc-43-53-01\Лабораторные\31КС\Подливкин Арсений\BMR\BMR\bin\Debug\BMR.pdb
+\\pc-43-53-01\Лабораторные\31КС\Подливкин Арсений\BMR\BMR\obj\Debug\BMR.csprojAssemblyReference.cache
+\\pc-43-53-01\Лабораторные\31КС\Подливкин Арсений\BMR\BMR\obj\Debug\BMR.Form1.resources
+\\pc-43-53-01\Лабораторные\31КС\Подливкин Арсений\BMR\BMR\obj\Debug\BMR.Properties.Resources.resources
+\\pc-43-53-01\Лабораторные\31КС\Подливкин Арсений\BMR\BMR\obj\Debug\BMR.csproj.GenerateResource.cache
+\\pc-43-53-01\Лабораторные\31КС\Подливкин Арсений\BMR\BMR\obj\Debug\BMR.csproj.CoreCompileInputs.cache
+\\pc-43-53-01\Лабораторные\31КС\Подливкин Арсений\BMR\BMR\obj\Debug\BMR.exe
+\\pc-43-53-01\Лабораторные\31КС\Подливкин Арсений\BMR\BMR\obj\Debug\BMR.pdb
+C:\Users\student\Downloads\-1-main (1)\-1-main\BMR\BMR\bin\Debug\BMR.exe.config
+C:\Users\student\Downloads\-1-main (1)\-1-main\BMR\BMR\bin\Debug\BMR.exe
+C:\Users\student\Downloads\-1-main (1)\-1-main\BMR\BMR\bin\Debug\BMR.pdb
+C:\Users\student\Downloads\-1-main (1)\-1-main\BMR\BMR\obj\Debug\BMR.csprojAssemblyReference.cache
+C:\Users\student\Downloads\-1-main (1)\-1-main\BMR\BMR\obj\Debug\BMR.Form1.resources
+C:\Users\student\Downloads\-1-main (1)\-1-main\BMR\BMR\obj\Debug\BMR.Properties.Resources.resources
+C:\Users\student\Downloads\-1-main (1)\-1-main\BMR\BMR\obj\Debug\BMR.csproj.GenerateResource.cache
+C:\Users\student\Downloads\-1-main (1)\-1-main\BMR\BMR\obj\Debug\BMR.csproj.CoreCompileInputs.cache
+C:\Users\student\Downloads\-1-main (1)\-1-main\BMR\BMR\obj\Debug\BMR.exe
+C:\Users\student\Downloads\-1-main (1)\-1-main\BMR\BMR\obj\Debug\BMR.pdb
