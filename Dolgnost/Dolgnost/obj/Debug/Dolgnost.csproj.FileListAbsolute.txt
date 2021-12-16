@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\Dolgnost\Dolgnost\bin\Debug\Dolgnost1.mdf
+C:\Users\User\source\repos\Dolgnost\Dolgnost\bin\Debug\Dolgnost1_log.ldf
+C:\Users\User\source\repos\Dolgnost\Dolgnost\bin\Debug\Dolgnost.exe.config
+C:\Users\User\source\repos\Dolgnost\Dolgnost\bin\Debug\Dolgnost.exe
+C:\Users\User\source\repos\Dolgnost\Dolgnost\bin\Debug\Dolgnost.pdb
+C:\Users\User\source\repos\Dolgnost\Dolgnost\obj\Debug\Dolgnost.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Dolgnost\Dolgnost\obj\Debug\Dolgnost.Form1.resources
+C:\Users\User\source\repos\Dolgnost\Dolgnost\obj\Debug\Dolgnost.Properties.Resources.resources
+C:\Users\User\source\repos\Dolgnost\Dolgnost\obj\Debug\Dolgnost.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Dolgnost\Dolgnost\obj\Debug\Dolgnost.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Dolgnost\Dolgnost\obj\Debug\Dolgnost.exe
+C:\Users\User\source\repos\Dolgnost\Dolgnost\obj\Debug\Dolgnost.pdb
