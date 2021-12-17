@@ -1,0 +1,10 @@
+C:\Users\student\source\repos\машина аренда\bin\Debug\машина аренда.exe.config
+C:\Users\student\source\repos\машина аренда\bin\Debug\машина аренда.exe
+C:\Users\student\source\repos\машина аренда\bin\Debug\машина аренда.pdb
+C:\Users\student\source\repos\машина аренда\obj\Debug\машина аренда.csprojAssemblyReference.cache
+C:\Users\student\source\repos\машина аренда\obj\Debug\машина_аренда.Form1.resources
+C:\Users\student\source\repos\машина аренда\obj\Debug\машина_аренда.Properties.Resources.resources
+C:\Users\student\source\repos\машина аренда\obj\Debug\машина аренда.csproj.GenerateResource.cache
+C:\Users\student\source\repos\машина аренда\obj\Debug\машина аренда.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\машина аренда\obj\Debug\машина аренда.exe
+C:\Users\student\source\repos\машина аренда\obj\Debug\машина аренда.pdb
